@@ -2,6 +2,7 @@
 
 A high-performance trade simulator that connects to OKX's WebSocket API to process L2 orderbook data for cryptocurrency trading. The system estimates transaction costs and market impact while maintaining high performance.
 
+https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-d0d4-61f7-9fdc-3d168717a6c2/raw?se=2025-05-19T19%3A11%3A12Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=789f404f-91a9-4b2f-932c-c44965c11d82&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-19T05%3A49%3A24Z&ske=2025-05-20T05%3A49%3A24Z&sks=b&skv=2024-08-04&sig=/UjDebx91hnpQ6YT8FWpskkCuQYKe3HiQiMaeewJd0Y%3D
 ## Features
 
 - Real-time L2 orderbook processing with thread-safe updates
