@@ -1,4 +1,4 @@
-# GoQuant Trade Simulator
+# Trade Simulator
 
 A high-performance trade simulator that connects to OKX's WebSocket API to process L2 orderbook data for cryptocurrency trading. The system estimates transaction costs and market impact while maintaining high performance.
 
